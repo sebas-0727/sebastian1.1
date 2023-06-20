@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items:normal;
+  justify-content: center;
+  background-image: url(miata.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+
+}
+
+
+.controls1 {
+  width: 70%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #24303c;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+  position:static;
+}
+
+.controls2 {
+  width: 70%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #24303c;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+  position:static;
+}
+
+.controls3 {
+  width: 70%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #24303c;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+  position: relative;
+}
+
+.controls4 {
+  width: 70%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #24303c;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+  position: relative;
+}
+
+.controls5 {
+  width: 70%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #24303c;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+  position: relative;
+}
+
+
+
+.form-register .boton {
+  width: 100%;
+  background:#24303c;
+  border: none;
+  padding: 12px;
+  color:#ffffff;
+  margin: 16px 0;
+  font-size: 16px;
+}
+
+.opciones{
+  width: 70%;
+  background:#ffffff;
+  border: none;
+  padding: 12px;
+  color:#24303c;
+  margin: 16px 0;
+  font-size: 16px;
+}
+
+
+
+
+
